@@ -1,0 +1,25 @@
+	No.	%	No. (%)
+Categorized Age			
+20-39	536	57.9	536 (57.9)
+40-59	381	41.2	381 (41.2)
+60+	8	0.9	8 (0.9)
+Total	925	100	925 (100)
+			
+Q08. What is your sex?			
+Male	322	34.8	322 (34.8)
+Female	603	65.2	603 (65.2)
+Total	925	100	925 (100)
+			
+Q09. What is your highest level of education?			
+None	3	0.3	3 (0.3)
+Primary	8	0.9	8 (0.9)
+Secondary	42	4.5	42 (4.5)
+Tertiary	872	94.3	872 (94.3)
+Total	925	100	925 (100)
+			
+categorized experience			
+5-Jan	392	42.4	392 (42.4)
+10-Jun	322	34.8	322 (34.8)
+15-Nov	147	15.9	147 (15.9)
+15+	64	6.9	64 (6.9)
+Total	925	100	925 (100)
